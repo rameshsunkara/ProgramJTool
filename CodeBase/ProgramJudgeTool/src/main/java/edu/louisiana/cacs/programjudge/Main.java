@@ -21,10 +21,10 @@ import edu.louisiana.cacs.programjudge.util.ProgramJudgeToolConstants;
 public class Main {
 
 	private static Log m_logger = LogFactory.getLog(Main.class);
-	private static Configurator m_Configurator;
+	//private static Configurator m_Configurator;
 
 	static {
-		m_Configurator = loadSystemConfig();
+		//m_Configurator = loadSystemConfig();
 	}
 
 	/**
