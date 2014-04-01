@@ -1,8 +1,8 @@
-package com.dealer.exercise.util;
+package edu.louisiana.cacs.programjudge.util;
 
 import java.text.SimpleDateFormat;
 
-public class DealerConstants {
+public class ProgramJudgeToolConstants {
 
 	public static final String SYSTEM_PROPERTY_FILE = "dealerexercise.properties";
 	
